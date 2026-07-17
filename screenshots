@@ -1,0 +1,13 @@
+EMI_Risk_Analyzer/
+
+├── screenshots/
+│   ├── AKIŞ.png
+│   ├── dashboard.png
+│   ├── pdf_report_1.png
+│   └── pdf_report_2.png
+│
+├── app/
+├── src/
+├── models/
+├── data/
+└── README.md
