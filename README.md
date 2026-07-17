@@ -56,7 +56,7 @@ The system evaluates:
 ---
 
 ## 🧠 Machine Learning Workflow
-```text
+
 ```text
 PCB Design Parameters
         ↓
@@ -90,7 +90,6 @@ PDF Report Generation
 
 ## 📂 Project Structure
 
-EMI_Risk_Analyzer/
 
 ```text
 EMI_Risk_Analyzer/
