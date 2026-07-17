@@ -19,6 +19,34 @@ This project bridges **PCB design engineering** and **Data Science** by providin
 
 ## 🚀 Features
 
+---
+
+## 📸 Project Screenshots
+
+### 🔄 Project Workflow
+
+The complete EMI Risk Analyzer pipeline:
+
+![Project Workflow](screenshots/workflow.png)
+
+
+### 📊 Dashboard Preview
+
+The Streamlit dashboard provides real-time EMI risk analysis.
+
+![EMI Risk Analyzer Dashboard](screenshots/dashboard.png)
+
+
+### 📄 Automated PDF Report
+
+The system generates downloadable EMI risk reports.
+
+![PDF Report Page 1](screenshots/pdf_report_1.png)
+
+![PDF Report Page 2](screenshots/pdf_report_2.png)
+
+---
+
 ### 🤖 AI-Based EMI Risk Prediction
 - Predicts PCB EMI risk as **PASS / FAIL**
 - Provides confidence score and risk evaluation
