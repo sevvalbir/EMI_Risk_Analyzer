@@ -56,22 +56,20 @@ The system evaluates:
 ---
 
 ## 🧠 Machine Learning Workflow
+```text
+```text
 PCB Design Parameters
-|
-↓
+        ↓
 Data Processing
-|
-↓
+        ↓
 Machine Learning Model
-|
-↓
+        ↓
 EMI Risk Prediction
-|
-↓
+        ↓
 SHAP Explainability
-|
-↓
+        ↓
 PDF Report Generation
+```
 
 
 ---
@@ -94,26 +92,29 @@ PDF Report Generation
 
 EMI_Risk_Analyzer/
 
-│
+```text
+EMI_Risk_Analyzer/
+
 ├── app/
-│ └── app.py # Streamlit application
+│   └── app.py                  # Streamlit application
 │
 ├── src/
-│ ├── predict.py # Prediction pipeline
-│ ├── train_model.py # Model training
-│ ├── explain_model.py # SHAP analysis
-│ └── pdf_report.py # PDF generation
+│   ├── predict.py              # Prediction pipeline
+│   ├── train_model.py          # Model training
+│   ├── explain_model.py        # SHAP analysis
+│   └── pdf_report.py           # PDF generation
 │
 ├── models/
-│ └── emi_model.pkl # Trained ML model
+│   └── emi_model.pkl           # Trained ML model
 │
 ├── data/
-│ └── emi_dataset.csv # Dataset
+│   └── emi_dataset.csv         # Dataset
 │
 ├── notebooks/
-│ └── emi_analysis.ipynb
+│   └── emi_analysis.ipynb
 │
 └── requirements.txt
+```
 
 
 ---
